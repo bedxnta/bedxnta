@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bedxnta
 - 👀 I’m interested in living life.
-- 🌱 I’m currently learning [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) 
+- 🌱 I’m currently learning ![nothing lol](https://img.shields.io/badge/nothing-lol-404040?style=flat&logoColor=white&labelColor=404040&color=404040)
 - 💞️ I have coded in [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 - 📫 Drop a mail at `bedanta[at]duck[dot]com`
 - 😄 Pronouns: he/him
